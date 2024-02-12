@@ -1,0 +1,1 @@
+<p>ini adalah email dari laravel HiPub</p>
